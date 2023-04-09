@@ -1,1 +1,2 @@
-# Line-following-obstacle-avoiding-robot
+# Line-following-obstacle-avoiding-robot.
+# Arduino based project.
